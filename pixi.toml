@@ -28,6 +28,7 @@ ipython = "*"
 ipykernel = "*"
 jupyterlab = "*"
 pip = "*"
+rich = ">=14.0.0,<15"
 
 [pypi-dependencies]
 damply = ">=0.10.0, <0.11"
